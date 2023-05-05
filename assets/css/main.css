@@ -7,7 +7,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #306e4a;
+  --color-primary: #ADF802;
   --color-secondary: #52565e;
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #306e4a;
+  color: #ADF802;
   text-decoration: none;
 }
 
@@ -176,7 +176,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #ffc732;
+  background: #ADF802;
   color: #fff;
 }
 
@@ -586,7 +586,7 @@ section {
 .get-started .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #059652;
+  background: #ADF802;
   text-align: center;
   padding: 15px;
   margin-bottom: 24px;
@@ -608,7 +608,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #059652;
+  border: 3px solid #ADF802;
   border-top-color: #fff;
   animation: animate-loading 1s linear infinite;
 }
@@ -803,7 +803,7 @@ section {
 }
 
 .features .nav-link.active {
-  color: var(--color-primary);
+  color: #000;
   background-color: transparent;
   border-color: var(--color-primary);
 }
@@ -1676,7 +1676,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #059652;
+  background: #ADF802;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1696,7 +1696,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #059652;
+  border: 3px solid #ADF802;
   border-top-color: #fff;
   animation: animate-loading 1s linear infinite;
 }
