@@ -915,7 +915,7 @@ section {
   font-size: 14px;
   padding: 5px 10px;
   font-weight: 400;
-  color: #fff;
+  color: #000;
   display: inline-block;
   background-color: var(--color-primary);
 }
