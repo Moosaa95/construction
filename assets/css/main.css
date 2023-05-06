@@ -242,8 +242,10 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 400px;
+  max-width: 400px;
   margin-right: 6px;
+  width: 50%;
 }
 
 .header .logo h1 {
